@@ -1,6 +1,6 @@
 ---
 title: win的Powershell增强
-date: 2023-07-15 08:56:00+0800
+date: 2023-07-15 08:11:00+0800
 categories: [win, powershell]
 tags: [win, powershell]     
 ---

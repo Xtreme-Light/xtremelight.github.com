@@ -1,6 +1,6 @@
 ---
 title: powerline介绍及其安装
-date: 2023-07-15 09:00:00+0800
+date: 2023-07-15 07:00:00+0800
 categories: [font]
 tags: [font]    
 ---
