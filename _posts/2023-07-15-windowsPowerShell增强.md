@@ -88,7 +88,7 @@ Import-Module posh-git # git的自动补全
 
 关闭alacritty再次打开应该如图所示
 
-![image-20230715074521166](./../assets/image/2023-07-15-windowsPowerShell增强/image-20230715074521166.png)
+![image-20230715074521166](/assets/image/2023-07-15-windowsPowerShell增强/image-20230715074521166.png)
 
 ### 通过oh-my-posh安装字体
 
